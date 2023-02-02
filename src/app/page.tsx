@@ -34,7 +34,7 @@ export default function Home() {
               </div>
               <div className="bg-indigo-500 rounded-br-[50px] h-full flex items-center">
                 <div className="bg-dark-blue rounded-tl-3xl flex flex-col justify-center w-full h-full">
-                  <div className="text-white text-2xl mt-10 mx-10">Let's</div>
+                  <div className="text-white text-2xl mt-10 mx-10">Let&apos;s</div>
                   <div className="mx-10 mt-2">
                     <Link
                       href="/contact"
